@@ -12,12 +12,12 @@
     "url": "https://github.com/Microsoft/vscode-extension-samples"
   },
   "dependencies": {
-    "globby": "^9.1.0",
-    "ts-morph": "^1.3.0",
-    "vscode-languageserver": "^4.4.2"
+    "globby": "^14.1.0",
+    "ts-morph": "^26.0.0",
+    "vscode-languageserver": "^9.0.1"
   },
   "scripts": {},
   "devDependencies": {
-    "@types/globby": "^8.0.0"
+    "@types/globby": "^9.1.0"
   }
 }
